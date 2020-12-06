@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:\\wamp\\www\\Php"
+		},
+		{
+			"path": "C:\\wamp\\bin\\php\\php7.0.4\\php.exe"
+		}
+	],
+	"settings": {
+	},
+	"terminal.integrated.shell.windows": "",
+	"php.executablePath": "C:\\wamp\\bin\\php\\php7.0.4\\php.exe",
+	"terminal.integrated.automationShell.linux": ""
+}
